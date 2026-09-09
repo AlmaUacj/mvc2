@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="App/App.csproj" />
+  <Project Path="Infrastucture/Infraestructura.csproj" />
+  <Project Path="Test/Test.csproj" />
+  <Project Path="TiendaVisual/TiendaVisual.csproj" />
+</Solution>
